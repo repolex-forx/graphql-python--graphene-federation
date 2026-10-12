@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-federation/commit/653357cf08908264fe5abcbcbcdac4f49bd41cdd",
       "git:hexsha": "653357cf08908264fe5abcbcbcdac4f49bd41cdd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.3.0"
     },
     {
