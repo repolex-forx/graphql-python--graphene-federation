@@ -1,0 +1,11 @@
+{
+  "org": "graphql-python",
+  "repo": "graphene-federation",
+  "versions": [
+    {
+      "commit": "653357cf08908264fe5abcbcbcdac4f49bd41cdd",
+      "tag": "v3.3.0",
+      "parsed_at": "2026-10-12T02:01:15.605106+00:00"
+    }
+  ]
+}
